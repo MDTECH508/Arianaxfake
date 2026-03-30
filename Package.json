@@ -1,0 +1,13 @@
+{
+  "name": "togo-proxy",
+  "version": "1.0.0",
+  "description": "Proxy pou aksede sit ki nan Togo depi Ayiti",
+  "main": "api/proxy.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "keywords": ["proxy", "vercel", "togo", "haiti"],
+  "author": "Ou",
+  "license": "MIT"
+}
